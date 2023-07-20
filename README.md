@@ -1,3 +1,6 @@
+![image](https://github.com/riteshk-007/ri_shore/assets/135107962/fe64f7cb-2732-49b8-acc2-58243711b60c)
+
+
 # Ri Shore
 
 Ri Shore is a web application that provides information and details about various shorelines around the world. It allows users to explore different coastal areas, learn about their features, and access related resources.
@@ -40,6 +43,9 @@ npm start
 ```
 
 5. Open your browser and visit `http://localhost:3000` to access the application.
+![image](https://github.com/riteshk-007/ri_shore/assets/135107962/b34b3675-3c9a-47a7-9065-72ea65b45b4c)
+![image](https://github.com/riteshk-007/ri_shore/assets/135107962/f5a02818-8d86-4be0-9c6f-1dc34ded9057)
+
 
 ## Technologies Used
 
@@ -65,12 +71,16 @@ The project structure follows the standard React application structure:
   - `index.js`: The entry point of the application.
 
 ## Contributing
+![image](https://github.com/riteshk-007/ri_shore/assets/135107962/0a978111-ba1a-48a8-adbf-9a71916f8af9)
 
 Contributions are welcome! If you find any issues or would like to add new features, please open an issue or submit a pull request on the [GitHub repository](https://github.com/riteshk-007/ri_shore).
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+![image](https://github.com/riteshk-007/ri_shore/assets/135107962/d5b77eb9-0980-426e-901a-953b4abc7619)
+![image](https://github.com/riteshk-007/ri_shore/assets/135107962/cbd500fc-b897-488d-880e-bc83cf7b130d)
+
 
 ## Acknowledgements
 
